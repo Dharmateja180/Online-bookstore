@@ -6,3 +6,10 @@ I have created a website for purchasing books online. It helps the users to find
 
 # Loading screen
 ![image](https://user-images.githubusercontent.com/106651499/210081596-670320a8-8fbf-4988-8da2-9b618a89db87.png)
+
+
+# Home page
+![image](https://user-images.githubusercontent.com/106651499/210081733-2b037852-4c9d-440c-9776-2c411a0550ba.png)
+
+
+
